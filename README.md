@@ -40,50 +40,6 @@
 
 ---
 
-## 📌 Highlight Projects
-
-### 🎬 RateMovie
-
-iOS movie rating app built with UIKit showcasing:
-
-* MVVM Architecture
-* Dependency Injection
-* Observable UI State
-
-### 🧱 ShowcaseLevelin
-
-Modular iOS app demonstrating:
-
-* SwiftUI
-* SPM-based modules
-* Clean MVVM + DI structure
-
-### 🔐 CoreSecurity
-
-Lightweight Swift Package providing:
-
-* Encryption
-* Decryption
-* HMAC utilities
-  for secure iOS app communication
-
-### 🕵️ UnPass
-
-Digital forensic research tool for:
-
-* Android lock pattern analysis
-* GUI-based educational security approach
-
-### ❓ FlutterizationQuiz
-
-Cross-platform quiz app demonstrating:
-
-* Interactive UI
-* State-driven navigation
-* Result tracking
-
----
-
 ## 📈 GitHub Focus
 
 I enjoy building:
