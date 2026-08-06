@@ -64,7 +64,8 @@ Production-ready applications.
 
 | Project | Description | Tech Stack | Repository |
 |----------|-------------|------------|------------|
-| 🏦 ShowcaseLevelIn | Large-scale modular showcase application | Swift • UIKit • SwiftUI • MVVM • Firebase • SPM | [🔗 ShowcaseLevelin-Link](https://github.com/dhikadityre/ShowcaseLevelin) |
+| 🎞️ ShowcaseLevelIn | Large-scale modular showcase application | Swift • UIKit • SwiftUI • MVVM • Firebase • SPM | [🔗 ShowcaseLevelin-Link](https://github.com/dhikadityre/ShowcaseLevelin) |
+| 🎮 VeritasGamerArea | Veritas Gamer Area is a modern game discovery platform that helps players explore, search, and track games from multiple gaming data providers. Built with a scalable architecture, it delivers rich game information, personalized experiences, and is designed to seamlessly integrate additional gaming APIs in the future. | Swift • UIKit • SwiftUI • MVVM • BDD • TDD | [🔗 VGA-Link](https://github.com/dhikadityre/VeritasGamerArea) |
 | 🌉 Flutter Gateway | Native iOS bridge for Flutter modules | Swift • Flutter | 🔗 Coming Soon |
 | 🧱 Design System Demo | Enterprise Design System showcase | SwiftUI • UIKit | 🔗 Coming Soon |
 
@@ -75,10 +76,11 @@ Production-ready applications.
 Architecture-focused applications.
 
 | Project | Description | Tech Stack | Repository |
-|----------|-------------|------------|------------|
+|-----------|-------------|------------|------------|
 | 🎬 Rate Movie | Clean Architecture sample | UIKit • MVVM • Core Data • Clean Architecture • Depedency Injection • SOLID | [🔗 RateMovie-Link](https://github.com/dhikadityre/RateMovie) |
 | 🎬 VIPER Movie List | Clean Architecture sample | SwiftUI • VIPER • Core Data • Clean Architecture • Depedency Injection • SOLID • Combine • Swift Concurrency | [🔗 VIPERMovieList-OnHold-Link](https://github.com/dhikadityre/VIPER-MovieList) |
-| 🎮 My Dota | An MVC application built in 2021, **set to be refactored ASAP** into an architecture that is easier to test and maintain. | UIKit • MVC • Core Data | [🔗 My Dota-Link](https://github.com/dhikadityre/MyDota) |
+| 🧠 Memoir Assistant | A personal life management platform that helps you organize memories, notes, reminders, and essential information in one place, with secure sharing for family, friends, or the public. | SwiftUI • MVVM • Swift Data • Clean Architecture • Depedency Injection • SOLID • Combine • Swift Concurrency | [🔗 MemoirAssistant-Link](https://github.com/dhikadityre/MemoirAssistant) |
+| 🎮 My Dota | An MVC application built in 2021, **set to be refactored ASAP** into an architecture that is easier to test and maintain. | UIKit • MVC • Core Data | [🔗 MyDota-Link](https://github.com/dhikadityre/MyDota) |
 
 ---
 
@@ -101,8 +103,8 @@ Repositories documenting my continuous learning journey.
 | Topic | Description & Tech Stack | Repository |
 |--------|-------------|------------|
 | 🧪 Testing Navigation View Controller, Sample XCTAssertThrow, LoadingVCUnitTest | Entry Level • UIKit • XCTest | [🔗 NavigationVC-Link](https://github.com/dhikadityre/TestingViewControllerNavigation),[🔗 LoadingViewControllerUnitTest-Link](https://github.com/dhikadityre/LoadingViewControllersInUnitTest), [🔗 XCTAssertNoThrow-Link](https://github.com/dhikadityre/XCTAssertNoThrow/tree/main) |
-| 🏞️ Photo App UT | Entry Level • Basic Unit Testing | [🔗 Photo App UT-Link](https://github.com/dhikadityre/PhotoAppUT) |
-| 🌦 Good Weather | Entry Level • MVVM • UIKIT • APIRequest | [🔗 Good Weather-Link](https://github.com/dhikadityre/GoodWeather) |
+| 🏞️ Photo App UT | Entry Level • Basic Unit Testing | [🔗 PhotoAppUT-Link](https://github.com/dhikadityre/PhotoAppUT) |
+| 🌦 Good Weather | Entry Level • MVVM • UIKIT • APIRequest | [🔗 GoodWeather-Link](https://github.com/dhikadityre/GoodWeather) |
 | ☕ Coffee Dict | Entry Level • Swift • Delegation | [🔗 CoffeeDict-Link](https://github.com/dhikadityre/CoffeeDict)|
 | 💳 Expense Tracker | Entry Level • Flutter • Dart | [🔗 ExpenseTracker-Link](https://github.com/dhikadityre/ExpenseTrackerFt)|
 | 💎 Loyalty Programs | Entry Level • Flutter • Dart | [🔗 LoyaltyPrograms-Link](https://github.com/dhikadityre/loyaltyprograms)|
