@@ -64,7 +64,7 @@ Production-ready applications.
 
 | Project | Description | Tech Stack | Repository |
 |----------|-------------|------------|------------|
-| 🏦 ShowcaseLevelIn | Large-scale modular banking application | Swift • UIKit • SwiftUI • MVVM • Firebase • SPM | [🔗 ShowcaseLevelin-Link](https://github.com/dhikadityre/ShowcaseLevelin) |
+| 🏦 ShowcaseLevelIn | Large-scale modular showcase application | Swift • UIKit • SwiftUI • MVVM • Firebase • SPM | [🔗 ShowcaseLevelin-Link](https://github.com/dhikadityre/ShowcaseLevelin) |
 | 🌉 Flutter Gateway | Native iOS bridge for Flutter modules | Swift • Flutter | 🔗 Coming Soon |
 | 🧱 Design System Demo | Enterprise Design System showcase | SwiftUI • UIKit | 🔗 Coming Soon |
 
@@ -88,7 +88,7 @@ Small applications built while learning specific technologies.
 
 | Project | Description | Tech Stack | Repository |
 |----------|-------------|------------|------------|
-| 🦁 Africa | CRUD application | SwiftUI | [🔗 Africa-Link]([https://github.com/dhikadityre/Touchdown]) |
+| 🦁 Africa | CRUD application | SwiftUI | [🔗 Africa-Link](https://github.com/dhikadityre/Africa) |
 | 🏈 Touchdown | CRUD application | SwiftUI | [🔗 Touchdown-Link](https://github.com/dhikadityre/Touchdown) |
 | 🍇 Fructus | Networking practice | SwiftUI | [🔗 Fructus-Link](https://github.com/dhikadityre/Fructus) |
 
@@ -98,7 +98,7 @@ Small applications built while learning specific technologies.
 
 Repositories documenting my continuous learning journey.
 
-| Topic | Description | Repository |
+| Topic | Description & Tech Stack | Repository |
 |--------|-------------|------------|
 | 🧪 Testing Navigation View Controller, Sample XCTAssertThrow, LoadingVCUnitTest | Entry Level • UIKit • XCTest | [🔗 NavigationVC-Link](https://github.com/dhikadityre/TestingViewControllerNavigation),[🔗 LoadingViewControllerUnitTest-Link](https://github.com/dhikadityre/LoadingViewControllersInUnitTest), [🔗 XCTAssertNoThrow-Link](https://github.com/dhikadityre/XCTAssertNoThrow/tree/main) |
 | 🏞️ Photo App UT | Entry Level • Basic Unit Testing | [🔗 Photo App UT-Link](https://github.com/dhikadityre/PhotoAppUT) |
