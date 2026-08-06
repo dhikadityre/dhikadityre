@@ -1,66 +1,225 @@
 # Hi, I'm Dhika 👋
 
-🚀 Mobile Engineer specializing in **iOS Development**
-🔐 Interested in **Security, Encryption, and Scalable Architecture**
-🧩 Building modular, maintainable, and production-ready mobile systems
+**Mobile Engineer** specializing in **Native iOS Development**, passionate about building scalable, secure, and maintainable applications.
+
+I enjoy designing reusable frameworks, modular architectures, and production-ready mobile systems.
 
 ---
 
-## 👨‍💻 About Me
+# 📚 Table of Contents
 
-* 📱 iOS Engineer with strong focus on **Swift, MVVM, and Clean Architecture**
-* 🧱 Passionate about **Modular Architecture & Dependency Injection**
-* 🔐 Exploring **Mobile Security & Encryption**
-* 🌉 Currently working on scalable & reusable mobile core systems
-* 🌏 Based in West Jakarta, Indonesia
-
----
-
-## 🛠 Tech Stack
-
-### Mobile
-
-* Swift (UIKit & SwiftUI)
-* MVVM + Clean Architecture
-* Modularization (SPM)
-* Dependency Injection
-* Flutter (cross-platform exploration)
-
-### Security
-
-* Encryption / Decryption
-* HMAC
-* Secure Communication Layer
-
-### Architecture
-
-* Observable State UI
-* Scalable App Structure
-* Reusable Core Modules
+- [🚀 Featured Projects](#-featured-projects)
+- [📦 Reusable Modules](#-reusable-modules)
+- [📱 Applications](#-applications)
+  - [🔴 Advanced Applications](#-advanced-applications)
+  - [🟡 Intermediate Applications](#-intermediate-applications)
+  - [🟢 Starter Applications](#-starter-applications)
+- [📚 Learning Projects](#-learning-projects)
+- [🛠 Tech Stack](#-tech-stack)
+- [🏛 Engineering Principles](#-engineering-principles)
+- [🎯 Current Focus](#-current-focus)
+- [🌐 Connect](#-connect)
 
 ---
 
-## 📈 GitHub Focus
+# 🚀 Featured Projects
 
-I enjoy building:
+These are the repositories that best represent my engineering skills.
 
-* Secure mobile communication layers
-* Scalable mobile architectures
-* Reusable core SDKs
-* Cross-platform mobile foundations
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-## 🌐 Let's Connect
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhikaadityaare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhikaadityaare" height="30" width="40" /></a>
-</p>
+| Project | Category | Tech Stack | Repository |
+|----------|----------|------------|------------|
+| 🔐 Core Security | Reusable Module | Swift • CryptoKit | [🔗 CoreSecurity-Link](https://github.com/dhikadityre/CoreSecurity) |
+| 🌐 Core Network | Reusable Module | Swift • URLSession | [🔗 CoreNetworkNative-Link](https://github.com/dhikadityre/CoreNetworkNative) |
+| 🎨 Design System Library | Reusable Module | SwiftUI • UIKit | 🔗 Coming Soon |
+| 🌉 Flutter Gateway | Advanced | Flutter • Swift | 🔗 Coming Soon |
 
 ---
 
-> *"Clean architecture is not just structure — it's sustainability."*
+# 📦 Reusable Modules
+
+Reusable packages that can be integrated into multiple iOS applications.
+
+| Module | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| 🔐 Core Security | Encryption, HMAC, Secure Communication | Swift, CryptoKit | [🔗 CoreSecurity-Link](https://github.com/dhikadityre/CoreSecurity) |
+| 🌐 Core Network | Networking abstraction layer | Swift, URLSession | [🔗 CoreNetworkNative-Link](https://github.com/dhikadityre/CoreNetworkNative) |
+| 🔥 Core Firebase | Firebase Analytics, Crashlytics, Remote Config wrapper | Swift, Firebase | [🔗 CoreFirebase-Link](https://github.com/dhikadityre/CoreFirebase) |
+| 🎨 Design System Library | Shared UIKit & SwiftUI components | SwiftUI, UIKit | 🔗 Coming Soon |
+| ⚙️ Core Environment | Configuration & Environment Management | Swift | [🔗 CoreEnvironment-Link](https://github.com/dhikadityre/SLCoreEnvironment) |
+| 📝 App Logger | Logging Framework | Swift | [🔗 AlgoreadMeCoreLogger-Link](https://github.com/dhikadityre/AlgoreadMeCoreLogger) |
+
+> Designed with **reusability**, **Clean Architecture**, and **modularity** in mind.
+
+---
+
+# 📱 Applications
+
+Applications demonstrating different engineering complexity.
+
+---
+
+## 🔴 Advanced Applications
+
+Production-ready applications.
+
+| Project | Description | Tech Stack | Repository |
+|----------|-------------|------------|------------|
+| 🏦 ShowcaseLevelIn | Large-scale modular banking application | Swift • UIKit • SwiftUI • MVVM • Firebase • SPM | [🔗 ShowcaseLevelin-Link](https://github.com/dhikadityre/ShowcaseLevelin) |
+| 🌉 Flutter Gateway | Native iOS bridge for Flutter modules | Swift • Flutter | 🔗 Coming Soon |
+| 🧱 Design System Demo | Enterprise Design System showcase | SwiftUI • UIKit | 🔗 Coming Soon |
+
+---
+
+## 🟡 Intermediate Applications
+
+Architecture-focused applications.
+
+| Project | Description | Tech Stack | Repository |
+|----------|-------------|------------|------------|
+| 🎬 Rate Movie | Clean Architecture sample | UIKit • MVVM • Core Data • Clean Architecture • Depedency Injection • SOLID | [🔗 RateMovie-Link](https://github.com/dhikadityre/RateMovie) |
+| 🎬 VIPER Movie List | Clean Architecture sample | SwiftUI • VIPER • Core Data • Clean Architecture • Depedency Injection • SOLID • Combine • Swift Concurrency | [🔗 VIPERMovieList-OnHold-Link](https://github.com/dhikadityre/VIPER-MovieList) |
+| 🎮 My Dota | An MVC application built in 2021, **set to be refactored ASAP** into an architecture that is easier to test and maintain. | UIKit • MVC • Core Data | [🔗 My Dota-Link](https://github.com/dhikadityre/MyDota) |
+
+---
+
+## 🟢 Starter Applications
+
+Small applications built while learning specific technologies.
+
+| Project | Description | Tech Stack | Repository |
+|----------|-------------|------------|------------|
+| 🦁 Africa | CRUD application | SwiftUI | [🔗 Africa-Link]([https://github.com/dhikadityre/Touchdown]) |
+| 🏈 Touchdown | CRUD application | SwiftUI | [🔗 Touchdown-Link](https://github.com/dhikadityre/Touchdown) |
+| 🍇 Fructus | Networking practice | SwiftUI | [🔗 Fructus-Link](https://github.com/dhikadityre/Fructus) |
+
+---
+
+# 📚 Learning Projects
+
+Repositories documenting my continuous learning journey.
+
+| Topic | Description | Repository |
+|--------|-------------|------------|
+| 🧪 Testing Navigation View Controller, Sample XCTAssertThrow, LoadingVCUnitTest | Entry Level • UIKit • XCTest | [🔗 NavigationVC-Link](https://github.com/dhikadityre/TestingViewControllerNavigation),[🔗 LoadingViewControllerUnitTest-Link](https://github.com/dhikadityre/LoadingViewControllersInUnitTest), [🔗 XCTAssertNoThrow-Link](https://github.com/dhikadityre/XCTAssertNoThrow/tree/main) |
+| 🏞️ Photo App UT | Entry Level • Basic Unit Testing | [🔗 Photo App UT-Link](https://github.com/dhikadityre/PhotoAppUT) |
+| 🌦 Good Weather | Entry Level • MVVM • UIKIT • APIRequest | [🔗 Good Weather-Link](https://github.com/dhikadityre/GoodWeather) |
+| ☕ Coffee Dict | Entry Level • Swift • Delegation | [🔗 CoffeeDict-Link](https://github.com/dhikadityre/CoffeeDict)|
+
+---
+
+# 🛠 Tech Stack
+
+## 📱 Mobile
+
+- Swift
+- UIKit
+- SwiftUI
+- Flutter
+- Dart
+
+---
+
+## 🏛 Architecture
+
+- MVC
+- MVVM
+- MVVMC
+- Clean Architecture
+- Modular Architecture
+- Swift Package Manager
+- Cocoapods
+- Dependency Injection
+
+---
+
+## 🔥 Backend
+
+- REST API
+- URLSession
+- Firebase
+- Remote Config
+- Crashlytics
+- Analytics
+
+---
+
+## 🔐 Security
+
+- CryptoKit
+- AES Encryption
+- HMAC
+- Secure Storage
+
+---
+
+## 🧪 Testing
+
+- XCTest
+- UITest
+- Unit Testing
+- Integration Testing
+- Swift Testing
+
+---
+
+## ⚙️ Tools
+
+- Xcode
+- Git
+- GitHub
+- Fastlane
+- Postman
+- Figma
+- Proxyman
+
+---
+
+# 🏛 Engineering Principles
+
+I strive to build software that is:
+
+- Scalable
+- Maintainable
+- Modular
+- Secure
+- Testable
+- Reusable
+- Clean
+- Simple
+- Well-documented
+
+---
+
+# 🎯 Current Focus
+
+Currently exploring and building:
+
+- 📦 Reusable Swift Packages
+- 🏗 Large-scale Modular Architecture
+- ⚡ Swift Concurrency
+- 🔐 Mobile Security
+- 📱 SwiftUI
+- 🧪 Software Testing
+- 🚀 Engineering Best Practices
+
+---
+
+# 📊 Repository Categories
+
+| Category | Description |
+|----------|-------------|
+| 📦 Reusable Modules | Libraries that can be reused across projects |
+| 📱 Applications | Complete mobile applications |
+| 📚 Learning Projects | Repositories documenting my learning journey |
+
+---
+
+# 🌐 Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/dhikadityre
+
+Feel free to explore my repositories or connect with me!
+
+---
+
+> **"Building software that is maintainable, reusable, and ready for tomorrow."**
