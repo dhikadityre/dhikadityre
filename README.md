@@ -104,6 +104,8 @@ Repositories documenting my continuous learning journey.
 | 🏞️ Photo App UT | Entry Level • Basic Unit Testing | [🔗 Photo App UT-Link](https://github.com/dhikadityre/PhotoAppUT) |
 | 🌦 Good Weather | Entry Level • MVVM • UIKIT • APIRequest | [🔗 Good Weather-Link](https://github.com/dhikadityre/GoodWeather) |
 | ☕ Coffee Dict | Entry Level • Swift • Delegation | [🔗 CoffeeDict-Link](https://github.com/dhikadityre/CoffeeDict)|
+| 💳 Expense Tracker | Entry Level • Flutter • Dart | [🔗 ExpenseTracker-Link](https://github.com/dhikadityre/ExpenseTrackerFt)|
+| 💎 Loyalty Programs | Entry Level • Flutter • Dart | [🔗 LoyaltyPrograms-Link](https://github.com/dhikadityre/loyaltyprograms)|
 
 ---
 
