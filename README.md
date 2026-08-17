@@ -90,9 +90,10 @@ Small applications built while learning specific technologies.
 
 | Project | Description | Tech Stack | Repository |
 |----------|-------------|------------|------------|
-| 🦁 Africa | CRUD application | SwiftUI | [🔗 Africa-Link](https://github.com/dhikadityre/Africa) |
-| 🏈 Touchdown | CRUD application | SwiftUI | [🔗 Touchdown-Link](https://github.com/dhikadityre/Touchdown) |
-| 🍇 Fructus | Networking practice | SwiftUI | [🔗 Fructus-Link](https://github.com/dhikadityre/Fructus) |
+| 🦁 Africa | SwiftUI application | SwiftUI | [🔗 Africa-Link](https://github.com/dhikadityre/Africa) |
+| 🏈 Touchdown | Marketplace application | SwiftUI | [🔗 Touchdown-Link](https://github.com/dhikadityre/Touchdown) |
+| 🍇 Fructus | SwiftUI practice | SwiftUI | [🔗 Fructus-Link](https://github.com/dhikadityre/Fructus) |
+| 🍽️  DineIn | **DineIn** is a simple iOS project created to explore and learn the latest **SwiftUI** features and updates for 2026, including modern state management architecture (`@Observable` / Observation framework). | SwiftUI • MVVM • Observation • Combine • HIG Component | [🔗 Fructus-Link](https://github.com/dhikadityre/Fructus) |
 
 ---
 
